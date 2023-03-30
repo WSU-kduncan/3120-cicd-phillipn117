@@ -32,7 +32,7 @@
 
 ### Behavior of GitHub workflow
 - Github Workflows are scripts that run when an event such as a push within a GitHub repository. The scripts are defined in YAML files and are executed GitHub Actions. 
-- Some variables that may need to be changed in a workflow include the name which reflects your project name. Image, the docker image used. In the YAML file things like the Docker username and repository name.
+- Some variables that may need to be changed in a workflow include the name which reflects your project name. Image, the docker image used. In the YAML file things like the Docker username and repository name. 
 
 ## Diagram
-![Stack AWS Route Table](../3120-cicd-phillipn117/Proj4.jpeg)
+![Stack AWS Route Table](../Proj4.jpeg)
