@@ -35,3 +35,4 @@
 - Some variables that may need to be changed in a workflow include the name which reflects your project name. Image, the docker image used. In the YAML file things like the Docker username and repository name.
 
 ## Diagram
+![Stack AWS Route Table](../3120-cicd-phillipn117/Proj4.jpeg)
