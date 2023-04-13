@@ -1,0 +1,7 @@
+hooks:
+  - id: deploy-my-app
+    execute-command: /path/to/deploy/script.sh
+    command-working-directory: /path/to/deploy/directory
+    trigger-rule:
+      event-type: "push"
+      branch-name: "main"
