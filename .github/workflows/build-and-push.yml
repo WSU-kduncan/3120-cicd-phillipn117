@@ -18,7 +18,7 @@ jobs:
       id: docker/metadata
       uses: docker/metadata-action@v3
       with:
-        images: docker.io/phillipn117/project4:
+        images: docker.io/phillipn117/project4:latest
 
     - name: Build and Push Docker Image
       uses: docker/build-push-action@v2
